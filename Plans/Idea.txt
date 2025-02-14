@@ -1,0 +1,32 @@
+- a record shelf that displays ur record collection in a cool way that has a specific slot for each record
+and a display that lets you search for a record by genre, decade, artist etc. when a record is selected it opens its drawer and pushes that record upward from its section where you can grab it and close the drawer. when adding a record to the collection you pick a slot for it and the computer saves the slot you put it in.
+- not only will it be for records but for any kind of physical media being collected like manga, games, movies, cds, books,etc..
+- You can add friends and see what they own
+- If a friend is borrowing something you can have see it so you know where your things are
+- you can have a wishlist that friends can see to get gift ideas
+- The four categories of items will be books Music Video and Games
+    - each has a specific image dimension that all items in these categories must fit
+- like letterboxd your main page will be like a home page
+    - you will be able to see what stuff your friends have put on their wishlist or library recently
+    - each main category will have a row
+- the second page will be a search page
+    - when searching you should be able to find the specific item and when you are adding it to your library of wishlist is when you will give all the specifications
+- third page will be your profile
+    - you will be able to put 9 items that represent you these will all be square dimensions
+    - a profile picture
+    - username
+    - full collection with number of items
+    - Music with number of items
+        - cd
+        - vinyl
+        - cassette
+    - Video with number of items
+        - dvd
+        - blu ray
+        - vhs
+    - Books with number of items
+        - Hard cover
+        - Dust Jacket
+        - Soft cover
+    - Games with number of items
+        - what console
