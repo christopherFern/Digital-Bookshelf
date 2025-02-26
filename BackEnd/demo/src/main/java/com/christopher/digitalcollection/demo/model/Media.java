@@ -1,4 +1,4 @@
-package com.christopher.digitalcollection.demo;
+package com.christopher.digitalcollection.demo.model;
 
 import jakarta.persistence.*;
 
